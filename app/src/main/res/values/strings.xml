@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">lesson_1</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="text3_2">к экрану 1</string>
+    <string name="text3_1">Экран 3</string>
+    <string name="text3_3">к экрану 2</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="switch1">Switch</string>
+    <string name="text1_3">к экрану 3</string>
+    <string name="text1_2">к экрану 2</string>
+    <string name="text1_1">Экран 1</string>
+    <string name="text2_1">Экран 2</string>
+    <string name="text2_2">к экрану 1</string>
+    <string name="text2_3">к экрану 3</string>
+    <string name="inputtype_text">inputType: text</string>
+    <string name="inputtype_textpersonname">inputType: textPersonName</string>
+    <string name="inputtype_phone">inputType: phone</string>
+    <string name="inputtype_number">inputType: number</string>
+    <string name="inputtype_textpassword">inputType: textPassword</string>
+    <string name="inputtype_textwebemailaddress">inputType: textWebEmailAddress</string>
+</resources>
